@@ -1,0 +1,28 @@
+# "Postcard from Cebu" theme: sea-glass background, deep-teal ink, coral accent.
+[theme]
+base = "light"
+primaryColor = "#C2410C"
+backgroundColor = "#F2F6F5"
+secondaryBackgroundColor = "#E1EBE9"
+textColor = "#10302F"
+borderColor = "#CFDCDA"
+linkColor = "#0F766E"
+linkUnderline = false
+codeBackgroundColor = "#E1EBE9"
+
+font = "Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "'Bricolage Grotesque':https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700;800&display=swap"
+headingFontWeights = [800, 800, 700, 700, 600, 600]
+metricValueFontWeight = 700
+
+baseRadius = "large"
+buttonRadius = "full"
+showWidgetBorder = true
+
+chartCategoricalColors = ["#C2410C", "#0F766E", "#B45309", "#6D28D9", "#BE123C", "#0369A1", "#4D7C0F"]
+dataframeHeaderBackgroundColor = "#E1EBE9"
+dataframeHeaderTextColor = "#10302F"
+dataframeBorderColor = "#CFDCDA"
+
+[client]
+toolbarMode = "minimal"
